@@ -1,0 +1,24 @@
+body{
+    background-color:aqua;
+}
+h2{
+    color:brown;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+label
+{
+    color: purple;
+    font-weight: bold;
+    font-size: 40px;
+}
+button
+{
+    background-color:palevioletred;
+    font-size: 25px;
+}
+input
+{
+    font-size:20px ;
+}
